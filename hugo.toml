@@ -1,0 +1,37 @@
+baseURL = "https://laslopaul.dev/"
+locale = "en-us"
+title = "laslopaul"
+theme = [ "PaperMod" ]
+
+
+[params]
+defaultTheme = "dark"
+disableThemeToggle = true
+ShowReadingTime = true
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+ShowBreadCrumbs = false
+ShowToc = false
+TocOpen = false
+ShowWordCount = false
+ShowRssButtonInSectionTermList = true
+ShowPoweredBy = false
+
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 1
+
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/"
+weight = 2
+
+
+[markup.highlight]
+noClasses = false
