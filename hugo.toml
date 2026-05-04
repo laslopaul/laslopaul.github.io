@@ -2,7 +2,6 @@ baseURL = "https://laslopaul.dev/"
 locale = "en-us"
 title = "laslopaul"
 theme = [ "terminal" ]
-fullWidthTheme = true
 enableRobotsTXT = true
 
 
@@ -30,6 +29,13 @@ TocOpen = false
 ShowWordCount = false
 ShowRssButtonInSectionTermList = true
 ShowPoweredBy = false
+fullWidthTheme = true
+centerTheme = false
+
+
+[params.logo]
+logoText = "laslopaul.dev"
+logoHomeLink = "/"
 
 
 [permalinks]
