@@ -16,19 +16,8 @@ keywords = [
 "ansible",
 "terraform"
 ]
-env = "production"
 defaultTheme = "dark"
 disableThemeToggle = true
-ShowReadingTime = true
-ShowShareButtons = false
-ShowPostNavLinks = true
-ShowCodeCopyButtons = true
-ShowBreadCrumbs = false
-ShowToc = false
-TocOpen = false
-ShowWordCount = false
-ShowRssButtonInSectionTermList = true
-ShowPoweredBy = false
 fullWidthTheme = true
 centerTheme = false
 
