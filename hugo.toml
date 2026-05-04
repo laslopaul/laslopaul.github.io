@@ -1,7 +1,8 @@
 baseURL = "https://laslopaul.dev/"
 locale = "en-us"
 title = "laslopaul"
-theme = [ "PaperMod" ]
+theme = [ "terminal" ]
+fullWidthTheme = true
 enableRobotsTXT = true
 
 
