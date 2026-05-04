@@ -2,9 +2,21 @@ baseURL = "https://laslopaul.dev/"
 locale = "en-us"
 title = "laslopaul"
 theme = [ "PaperMod" ]
+enableRobotsTXT = true
 
 
 [params]
+description = "devops & homelab enthusiast"
+author = "laslopaul"
+keywords = [
+"devops",
+"homelab",
+"kubernetes",
+"linux",
+"ansible",
+"terraform"
+]
+env = "production"
 defaultTheme = "dark"
 disableThemeToggle = true
 ShowReadingTime = true
@@ -17,6 +29,10 @@ TocOpen = false
 ShowWordCount = false
 ShowRssButtonInSectionTermList = true
 ShowPoweredBy = false
+
+
+[permalinks]
+posts = "/:slug/"
 
 
 [[menu.main]]
