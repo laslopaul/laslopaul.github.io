@@ -1,7 +1,9 @@
 ---
-title: "laslopaul"
+title: "About"
 date: 2026-05-03
 draft: false
+hideComments: true
+layout: about
 ---
 
 I'm a DevOps engineer based in Abu Dhabi. Before transitioning into IT, I worked as an Arabic–English–Russian interpreter.

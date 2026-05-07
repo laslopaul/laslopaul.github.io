@@ -1,7 +1,7 @@
 baseURL = "https://laslopaul.dev/"
 locale = "en-us"
 title = "laslopaul"
-theme = [ "terminal" ]
+theme = [ "re-terminal" ]
 enableRobotsTXT = true
 
 
@@ -17,9 +17,10 @@ keywords = [
 "terraform"
 ]
 defaultTheme = "dark"
+themeColor = "orange"
 disableThemeToggle = true
-fullWidthTheme = true
-centerTheme = false
+fullWidthTheme = false
+centerTheme = true
 
 
 [params.logo]
@@ -41,7 +42,7 @@ weight = 1
 [[menu.main]]
 identifier = "about"
 name = "About"
-url = "/"
+url = "/about/"
 weight = 2
 
 
