@@ -8,14 +8,36 @@
   transition: width 0.1s linear;
 }
 
+/* post + page body links */
 .post-content a,
+.post-content a:visited,
+.post-content a:active,
 .page-content a,
-.index-content a {
+.page-content a:visited,
+.page-content a:active,
+.index-content a,
+.index-content a:visited,
+.index-content a:active {
   color: #ffb347 !important;
 }
 
 .post-content a:hover,
 .page-content a:hover,
 .index-content a:hover {
+  color: #ffd27a !important;
+}
+
+/* menu links */
+.navigation-menu a,
+.navigation-menu a:visited,
+.navigation-menu a:active,
+.menu a,
+.menu a:visited,
+.menu a:active {
+  color: #ffb347 !important;
+}
+
+.navigation-menu a:hover,
+.menu a:hover {
   color: #ffd27a !important;
 }
