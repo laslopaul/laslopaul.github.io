@@ -21,6 +21,7 @@ themeColor = "orange"
 disableThemeToggle = true
 fullWidthTheme = false
 centerTheme = true
+readingTime = true
 
 
 [params.logo]
