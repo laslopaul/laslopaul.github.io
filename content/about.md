@@ -8,7 +8,7 @@ layout: about
 
 I'm a DevOps engineer based in Abu Dhabi. Before transitioning into IT, I worked as an Arabic–English–Russian interpreter.
 
-My stack encompasses bare-metal Kubernetes, GitOps (Flux), Istio, Cassandra, Elasticsearch, Terraform, Ansible,AWS EKS and much more.
+My stack encompasses bare-metal Kubernetes, GitOps (Flux), Istio, Cassandra, Elasticsearch, Terraform, Ansible, AWS EKS and much more.
 
 In my spare time, I tend to play chess, listen to music, and tinker with my tiny homelab server (an Intel NUC running Arch Linux).
 
