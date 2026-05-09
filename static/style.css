@@ -7,3 +7,15 @@
   z-index: 9999;
   transition: width 0.1s linear;
 }
+
+.post-content a,
+.page-content a,
+.index-content a {
+  color: #ffb347 !important;
+}
+
+.post-content a:hover,
+.page-content a:hover,
+.index-content a:hover {
+  color: #ffd27a !important;
+}
